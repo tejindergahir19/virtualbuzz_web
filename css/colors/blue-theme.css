@@ -8,13 +8,13 @@
 }
 .bg--theme,
 .shape--blue-400:after { 
-  background-color: #1680fb; 
+  background-color: #2fb8d9; 
 }
 
 .btn--theme {
   color: #fff!important;
-  border-color: #1680fb!important;
-  background-color: #1680fb!important;
+  border-color: #2fb8d9!important;
+  background-color: #2fb8d9!important;
 }
 
 .hover--theme:hover,
@@ -49,10 +49,10 @@
 .color--theme li, 
 .color--theme i, 
 .color--theme span,
-.color--white .color--theme { color: #1680fb!important; }
+.color--white .color--theme { color: #2fb8d9!important; }
 
 .loading--theme .loader { 
-  border-color: transparent #1680fb; 
+  border-color: transparent #2fb8d9; 
 }
 
 .loading--theme .loader::after {
@@ -60,41 +60,41 @@
 }
 
 .nav-theme .sm-info { 
-  background-color: #1680fb; 
+  background-color: #2fb8d9; 
 }
 
 .wsmenu > .wsmenu-list.nav-theme > li > ul.sub-menu > li > a:hover,
 .wsmenu > .wsmenu-list.nav-theme > li > .wsmegamenu.w-75 ul.link-list > li > a:hover,
 .wsmenu > .wsmenu-list.nav-theme > li > .wsmegamenu.halfmenu ul.link-list > li > a:hover {
-  color: #1680fb!important;
+  color: #2fb8d9!important;
 }
 
 .hero-section .quick-form .form-control:focus {
-  border-color: #1680fb;
+  border-color: #2fb8d9;
 }
 
 .cbox-2:hover .cbox-2-ico.bg--theme { 
-  color: #1680fb; 
-  border-color: #1680fb; 
+  color: #2fb8d9; 
+  border-color: #2fb8d9; 
 }
 
 .tabs-1.tabs--theme, 
 .tabs-1.tabs--theme li.current:hover,
 .faqs-section .tabs--theme .tabs-1 li.current,
 .faqs-section .tabs--theme .tabs-1 li.current:hover { 
-  color: #1680fb; 
-  border-color: #1680fb; 
+  color: #2fb8d9; 
+  border-color: #2fb8d9; 
 }
 
 .faqs-section .tabs--theme .tabs-1 li.current,
 .faqs-section .tabs--theme .tabs-1 li.current:hover {
-  background-color: #1680fb;
-  border-color: #1680fb!important;
+  background-color: #2fb8d9;
+  border-color: #2fb8d9!important;
 }
 
 .switch-wrap input:checked + .switcher.switcher--theme { 
-  background-color: #1680fb; 
-  border-color: #1680fb; 
+  background-color: #2fb8d9; 
+  border-color: #2fb8d9; 
 }
 
 .shape-ico.color--theme path,
@@ -110,6 +110,6 @@
 
 .theme-pagination .page-item.active .page-link {
   color: #fff!important;
-  background-color: #1680fb;
-  border: 2px solid #1680fb;
+  background-color: #2fb8d9;
+  border: 2px solid #2fb8d9;
 }
